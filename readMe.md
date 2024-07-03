@@ -1,1 +1,5 @@
-# DAY 1: COMPLETED
+# 30 Days of JavaScript
+
+1. DAY 1: COMPLETED (2024/07/03)
+
+2. DAY 2: COMPLETED (2024/07/03)
